@@ -1,0 +1,8 @@
+INSERT INTO table1 ( blogid, views, clicks )
+SELECT blogid, views, clicks
+FROM (Text;
+      FMT=Delimited;
+      HDR=YES;
+      CharacterSet=437;
+      DATABASE=C:\Users\Bojan\Desktop\Application) blogId.csv;
+
