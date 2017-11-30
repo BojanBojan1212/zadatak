@@ -1,3 +1,4 @@
+-- SQL code of Query1
 INSERT INTO table1 ( blogid, views, clicks )
 SELECT blogid, views, clicks
 FROM (Text;
